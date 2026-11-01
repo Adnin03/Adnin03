@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="banner.png" alt="Adnin Danil Azkia Banner" width="100%">
+</p>
+
 ## Hi there, I'm Adnin Danil Azkia 👋
 
 ### 📊 Data Analyst | Transforming Raw Data into Strategic Business Actions
@@ -7,7 +11,7 @@ I specialize in exploratory data analysis, business intelligence, and building i
 * 📍 Based in Indonesia
 * 💼 Exploring opportunities in Data Analytics, Business Intelligence, and Data Strategy
 * 🎯 Focus areas: Urban & Environmental Analytics, Business Performance, and Consumer Behavior
-* 📬 Let's connect: **[LinkedIn](https://www.linkedin.com/in/adnin-danil-azkia-a78766302/)** | **[Email](adnindanil03@gmail.com)**
+* 📬 Let's connect: **[LinkedIn](https://www.linkedin.com/in/adnin-danil-azkia/)** | **[Email](mailto:adnindanil03@gmail.com)**
 
 ---
 
@@ -35,12 +39,6 @@ data historis per jam.
 serta 0 hari berstatus "Baik" sepanjang tahun 2024.
 * **Deliverables:** Pipeline ekstraksi API otomatis, analisis statistik mendalam, dan **Interactive Executive Power BI Dashboard**.
 * 👉 **[Lihat Repositori & Dokumentasi Lengkap Proyek Ini ➔](https://github.com/Adnin03/jakarta-air-quality-mobility-analysis)**
-
- ## 📈 My GitHub Activity
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Adnin03&show_icons=true&theme=slate&hide_border=true" alt="Adnin's GitHub Stats" />
-</p>
 
 ---
 
