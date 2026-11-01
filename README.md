@@ -11,8 +11,7 @@ I specialize in exploratory data analysis, business intelligence, and building i
 * 📍 Based in Indonesia
 * 💼 Exploring opportunities in Data Analytics, Business Intelligence, and Data Strategy
 * 🎯 Focus areas: Urban & Environmental Analytics, Business Performance, and Consumer Behavior
-* 📬 Let's connect: **[LinkedIn](https://www.linkedin.com/in/adnin-danil-azkia/)** | **[Email](mailto:adnindanil03@gmail.com)**
-
+* 📬 Let's connect: **[LinkedIn](https://www.linkedin.com/in/adnin-danil-azkia/)** | **adnindanil03@gmail.com**
 ---
 
 ## 🛠️ Core Tech Stack & Tools
