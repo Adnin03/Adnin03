@@ -25,19 +25,7 @@ I specialize in exploratory data analysis, business intelligence, and building i
 
 ---
 
-## 📂 Featured Portfolio Projects
-
-Di bawah ini adalah proyek unggulan yang saya kerjakan secara end-to-end (dari ekstraksi data mentah hingga rekomendasi bisnis):
-
-### 🏙️ [Jakarta Urban Air Quality & Environmental Analytics (2024)](https://github.com/Adnin03/jakarta-air-quality-mobility-analysis)
-> **Tools:** `Python (requests, pandas)` • `Open-Meteo REST API` • `Power BI (DAX)` • `Exploratory Data Analysis`
-
-* **Business Problem:** Membedah krisis kualitas udara (PM2.5, PM10, AQI) dan anomali cuaca ekstrem di megapolitan Jakarta menggunakan 8.784 titik
-data historis per jam.
-* **Key Findings:** Menemukan bahwa hari Minggu sama berpolusinya dengan hari Senin (64,4 vs 64,8 µg/m³), lonjakan polusi ekstrem di jam 23.00 malam,
-serta 0 hari berstatus "Baik" sepanjang tahun 2024.
-* **Deliverables:** Pipeline ekstraksi API otomatis, analisis statistik mendalam, dan **Interactive Executive Power BI Dashboard**.
-* 👉 **[Lihat Repositori & Dokumentasi Lengkap Proyek Ini ➔](https://github.com/Adnin03/jakarta-air-quality-mobility-analysis)**
+👉 **[📂 Klik di Sini untuk Melihat Katalog Lengkap Portofolio Saya ➔](https://github.com/Adnin03/data-analyst-portfolio)**
 
 ---
 
